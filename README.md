@@ -1,3 +1,7 @@
+LLMs are used for getting mapping and recommendation.
+Instead of limiting the clarifying question to two, I am sending current recommendation based on the mapping inferred on every step.
+So user has the option to add filter if he wants to.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
